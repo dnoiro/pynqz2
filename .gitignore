@@ -1,0 +1,5 @@
+# SSH private keys must be generated locally and kept out of Git.
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
